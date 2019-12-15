@@ -13,4 +13,7 @@ public class Testing_java {
     public void login1() {
    	 System.out.println("Login");
     }
+    public void login2() {
+      	 System.out.println("Login");
+       }
 }
